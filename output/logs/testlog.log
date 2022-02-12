@@ -1,0 +1,674 @@
+2022-01-11 21:23:19,917 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:23:33,687 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-11 21:24:10,279 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:24:15,595 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-11 21:26:45,833 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:26:50,654 - logger_File -INFO - Scenario Login to Test Environment Retail Page PENDING
+2022-01-11 21:27:19,072 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:27:23,877 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-11 21:32:33,961 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:32:38,822 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-11 21:33:59,062 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:34:04,419 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-12 12:00:48,418 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:00:53,029 - logger_File -INFO - Text verified!
+2022-01-12 12:00:54,420 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:05:11,857 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:05:16,015 - logger_File -INFO - Text verified!
+2022-01-12 12:05:17,591 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:09:24,277 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:09:28,527 - logger_File -INFO - Text verified!
+2022-01-12 12:09:29,978 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:13:44,035 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:13:47,588 - logger_File -INFO - Text verified!
+2022-01-12 12:13:48,967 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:30:35,691 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:30:39,309 - logger_File -INFO - Text verified!
+2022-01-12 12:30:40,741 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:40:53,837 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:40:57,240 - logger_File -INFO - Text verified!
+2022-01-12 12:40:58,649 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:42:52,711 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:42:56,011 - logger_File -INFO - Text verified!
+2022-01-12 12:42:57,357 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 14:10:37,940 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 14:10:42,325 - logger_File -INFO - Text verified!
+2022-01-12 14:10:43,985 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 16:43:30,022 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 16:43:34,178 - logger_File -INFO - Text verified!
+2022-01-12 16:43:35,602 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 18:53:48,275 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 18:53:51,878 - logger_File -INFO - Text verified!
+2022-01-12 18:53:53,525 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 19:50:18,180 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 19:50:23,705 - logger_File -INFO - Text verified!
+2022-01-12 19:50:23,706 - logger_File -INFO - Homepage validated successfully
+2022-01-12 19:50:25,855 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 19:57:29,725 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 19:57:33,739 - logger_File -INFO - Text verified!
+2022-01-12 19:57:33,740 - logger_File -INFO - Homepage validated successfully
+2022-01-12 19:57:33,811 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 19:57:34,126 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 19:57:34,461 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 19:57:34,813 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 19:57:35,669 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:15:06,327 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:15:10,889 - logger_File -INFO - Text verified!
+2022-01-12 21:15:10,890 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:15:11,058 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:15:11,426 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:15:11,750 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:15:12,112 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:15:13,043 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:23:45,614 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:23:50,540 - logger_File -INFO - Text verified!
+2022-01-12 21:23:50,542 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:23:51,026 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:23:51,363 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:23:51,657 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:23:51,929 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:23:52,844 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:27:16,160 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:27:20,598 - logger_File -INFO - Text verified!
+2022-01-12 21:27:20,599 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:27:21,265 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:27:21,552 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:27:21,798 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:27:22,078 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:27:23,012 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:35:49,633 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:35:55,860 - logger_File -INFO - Text verified!
+2022-01-12 21:35:55,860 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:35:57,621 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:35:58,383 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:35:59,043 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:35:59,752 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:36:01,115 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:02,078 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:07,302 - logger_File -INFO - Text verified!
+2022-01-13 17:45:07,302 - logger_File -INFO - Homepage validated successfully
+2022-01-13 17:45:07,790 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 17:45:08,027 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:08,192 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 17:45:08,449 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:09,149 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:09,162 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:12,921 - logger_File -INFO - Text verified!
+2022-01-13 17:45:12,921 - logger_File -INFO - Homepage validated successfully
+2022-01-13 17:45:13,317 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 17:45:13,525 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:13,673 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 17:45:13,884 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:14,594 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:14,601 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:17,622 - logger_File -INFO - Text verified!
+2022-01-13 17:45:17,622 - logger_File -INFO - Homepage validated successfully
+2022-01-13 17:45:18,037 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 17:45:18,298 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:18,434 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 17:45:18,665 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:19,376 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:13:12,584 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:13:17,203 - logger_File -INFO - Text verified!
+2022-01-13 19:13:17,203 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:13:17,801 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:13:18,183 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:13:18,521 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 19:13:18,965 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:13:19,885 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:25:03,241 - logger_File -INFO - Scenario Land user on myAccount tab Started
+2022-01-13 19:25:07,475 - logger_File -INFO - Text verified!
+2022-01-13 19:25:07,475 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:25:08,167 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:25:09,114 - logger_File -INFO - Scenario Land user on myAccount tab PASSED
+2022-01-13 19:25:09,125 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:25:16,721 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:34:09,015 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:34:13,515 - logger_File -INFO - Text verified!
+2022-01-13 19:34:13,516 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:34:14,121 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:34:14,440 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:34:14,758 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 19:34:15,104 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:34:16,069 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:54:05,326 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:09,697 - logger_File -INFO - Text verified!
+2022-01-13 19:54:09,698 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:10,239 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:10,559 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:10,814 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 19:54:11,112 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:12,005 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:54:12,032 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:15,487 - logger_File -INFO - Text verified!
+2022-01-13 19:54:15,488 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:15,959 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:16,262 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:17,154 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 19:54:17,162 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:20,173 - logger_File -INFO - Text verified!
+2022-01-13 19:54:20,174 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:20,700 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:20,963 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:21,848 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 19:54:21,853 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:25,101 - logger_File -INFO - Text verified!
+2022-01-13 19:54:25,102 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:25,563 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:25,919 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:26,826 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 20:06:18,825 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:23,297 - logger_File -INFO - Text verified!
+2022-01-13 20:06:23,299 - logger_File -INFO - Homepage validated successfully
+2022-01-13 20:06:23,923 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 20:06:24,275 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:24,920 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:25,803 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 20:06:25,818 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:28,807 - logger_File -INFO - Text verified!
+2022-01-13 20:06:28,807 - logger_File -INFO - Homepage validated successfully
+2022-01-13 20:06:29,438 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 20:06:29,832 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:30,694 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:31,632 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 20:06:31,641 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:34,890 - logger_File -INFO - Text verified!
+2022-01-13 20:06:34,891 - logger_File -INFO - Homepage validated successfully
+2022-01-13 20:06:35,344 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 20:06:35,682 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:36,534 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:37,493 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 21:12:22,925 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:12:27,520 - logger_File -INFO - Text verified!
+2022-01-13 21:12:27,521 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:12:28,114 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:12:28,992 - logger_File -INFO - Scenario Register with Test Environment Webpage UNDEFINED
+2022-01-13 21:44:50,825 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:44:56,641 - logger_File -INFO - Text verified!
+2022-01-13 21:44:56,642 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:44:57,161 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:44:57,899 - logger_File -INFO - Register button was clicked successfully
+2022-01-13 21:44:58,628 - logger_File -INFO - User data entered successfully
+2022-01-13 21:44:58,704 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-13 21:44:59,598 - logger_File -INFO - Continue button clicked successfully
+2022-01-13 21:45:06,518 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-13 21:55:42,372 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 21:55:46,694 - logger_File -INFO - Text verified!
+2022-01-13 21:55:46,695 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:55:47,299 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:55:47,700 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 21:55:48,044 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 21:55:48,486 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 21:55:49,393 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 21:55:49,406 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:55:52,662 - logger_File -INFO - Text verified!
+2022-01-13 21:55:52,662 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:55:53,474 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:55:54,403 - logger_File -INFO - Register button was clicked successfully
+2022-01-13 21:55:55,241 - logger_File -INFO - User data entered successfully
+2022-01-13 21:55:55,349 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-13 21:55:56,218 - logger_File -INFO - Continue button clicked successfully
+2022-01-13 21:56:03,210 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-13 21:59:33,027 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:59:37,775 - logger_File -INFO - Text verified!
+2022-01-13 21:59:37,776 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:59:38,354 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:59:39,060 - logger_File -INFO - Register button was clicked successfully
+2022-01-13 21:59:39,871 - logger_File -INFO - User data entered successfully
+2022-01-13 21:59:39,982 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-13 21:59:40,640 - logger_File -INFO - Continue button clicked successfully
+2022-01-13 21:59:47,564 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-01 11:25:48,923 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 11:25:59,727 - logger_File -INFO - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-01 12:53:41,166 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 12:53:47,700 - logger_File -INFO - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-01 13:49:20,208 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 13:49:26,763 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 14:48:30,324 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 14:48:36,424 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 16:13:52,722 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 16:13:58,637 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 17:03:00,717 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 17:03:06,508 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 17:24:32,099 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 17:24:37,310 - logger_File -INFO - WebSite validated successfully
+2022-02-01 17:24:38,644 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 17:25:56,242 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 17:26:01,879 - logger_File -INFO - WebSite validated successfully
+2022-02-01 17:26:02,709 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 18:18:55,090 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 18:19:00,418 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 18:32:14,330 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 18:32:22,127 - logger_File -INFO - WebSite validated successfully
+2022-02-01 18:32:23,561 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:24:01,629 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:24:07,442 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:24:08,977 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:24:16,342 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:24:21,481 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:24:22,702 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:35:49,631 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:35:55,796 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:35:56,050 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:36:49,786 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:36:55,806 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:36:56,192 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:41:31,820 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:41:37,890 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:41:38,290 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:43:49,897 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:43:55,991 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:43:56,377 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:44:20,686 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:44:26,521 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:44:26,876 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 22:45:39,172 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 22:45:45,278 - logger_File -INFO - WebSite validated successfully
+2022-02-01 22:45:45,689 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 23:23:09,219 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 23:23:18,783 - logger_File -INFO - WebSite validated successfully
+2022-02-01 23:23:19,436 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 23:26:22,439 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-01 23:26:31,990 - logger_File -INFO - WebSite validated successfully
+2022-02-01 23:26:32,865 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-01 23:35:09,512 - logger_File -INFO - Scenario Title of your scenario Started
+2022-02-01 23:35:18,128 - logger_File -INFO - Scenario Title of your scenario UNDEFINED
+2022-02-01 23:35:18,177 - logger_File -INFO - Scenario Title of your scenario outline Started
+2022-02-01 23:35:25,255 - logger_File -INFO - Scenario Title of your scenario outline UNDEFINED
+2022-02-01 23:35:25,325 - logger_File -INFO - Scenario Title of your scenario outline Started
+2022-02-01 23:35:32,209 - logger_File -INFO - Scenario Title of your scenario outline UNDEFINED
+2022-02-01 23:42:16,773 - logger_File -INFO - Scenario Title of your scenario Started
+2022-02-01 23:42:23,909 - logger_File -INFO - Scenario Title of your scenario UNDEFINED
+2022-02-01 23:42:23,959 - logger_File -INFO - Scenario Title of your scenario outline Started
+2022-02-01 23:42:29,880 - logger_File -INFO - Scenario Title of your scenario outline UNDEFINED
+2022-02-01 23:42:29,963 - logger_File -INFO - Scenario Title of your scenario outline Started
+2022-02-01 23:42:35,890 - logger_File -INFO - Scenario Title of your scenario outline UNDEFINED
+2022-02-01 23:44:31,955 - logger_File -INFO - Scenario Title of your scenario Started
+2022-02-01 23:44:39,444 - logger_File -INFO - Scenario Title of your scenario UNDEFINED
+2022-02-01 23:44:39,535 - logger_File -INFO - Scenario Title of your scenario outline Started
+2022-02-01 23:44:45,521 - logger_File -INFO - Scenario Title of your scenario outline UNDEFINED
+2022-02-01 23:44:45,600 - logger_File -INFO - Scenario Title of your scenario outline Started
+2022-02-01 23:44:51,823 - logger_File -INFO - Scenario Title of your scenario outline UNDEFINED
+2022-02-02 00:12:08,736 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-02 00:12:19,024 - logger_File -INFO - WebSite validated successfully
+2022-02-02 00:12:19,637 - logger_File -INFO - Clicked on Tab
+2022-02-02 00:12:20,255 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-02 00:12:21,138 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-02 00:13:13,269 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-02 00:13:21,903 - logger_File -INFO - WebSite validated successfully
+2022-02-02 00:13:22,390 - logger_File -INFO - Clicked on Tab
+2022-02-02 00:13:22,907 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-02 00:13:23,442 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-02 00:16:32,837 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-02 00:16:39,952 - logger_File -INFO - WebSite validated successfully
+2022-02-02 00:16:41,214 - logger_File -INFO - Clicked on Tab
+2022-02-02 00:16:41,891 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-02 00:16:42,844 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-02 11:40:17,530 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-02 11:40:26,367 - logger_File -INFO - WebSite validated successfully
+2022-02-02 11:40:27,630 - logger_File -INFO - Clicked on Tab
+2022-02-02 11:40:28,213 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-02 11:40:30,741 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-02-02 12:29:11,171 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-02 12:29:16,415 - logger_File -INFO - WebSite validated successfully
+2022-02-02 12:29:17,933 - logger_File -INFO - Clicked on Tab
+2022-02-02 12:29:18,246 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-02 12:29:18,708 - logger_File -INFO - HP LP3065
+2022-02-02 12:32:25,383 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-02 12:32:30,404 - logger_File -INFO - WebSite validated successfully
+2022-02-02 12:32:31,402 - logger_File -INFO - Clicked on Tab
+2022-02-02 12:32:31,756 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-02 12:32:32,478 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-03 03:52:40,805 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-03 03:52:50,105 - logger_File -INFO - WebSite validated successfully
+2022-02-03 03:52:51,707 - logger_File -INFO - Clicked on Tab
+2022-02-03 03:52:52,321 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-03 03:52:53,179 - logger_File -INFO - HP LP3065
+2022-02-03 05:25:16,149 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-03 05:25:26,326 - logger_File -INFO - WebSite validated successfully
+2022-02-03 05:25:27,890 - logger_File -INFO - Clicked on Tab
+2022-02-03 05:25:28,661 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-03 05:25:29,394 - logger_File -INFO - HP LP3065
+2022-02-03 17:38:20,353 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-03 17:38:30,832 - logger_File -INFO - WebSite validated successfully
+2022-02-03 17:38:31,868 - logger_File -INFO - Clicked on Tab
+2022-02-03 17:39:02,886 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart FAILED
+2022-02-03 17:46:17,490 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-03 17:46:25,910 - logger_File -INFO - WebSite validated successfully
+2022-02-03 17:46:27,071 - logger_File -INFO - Clicked on Tab
+2022-02-03 17:46:58,193 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart FAILED
+2022-02-03 17:56:43,453 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 17:56:51,114 - logger_File -INFO - WebSite validated successfully
+2022-02-03 17:56:52,343 - logger_File -INFO - Clicked on Tab
+2022-02-03 17:57:05,250 - logger_File -INFO - Clicked on Show All Desktops
+2022-02-03 18:01:44,700 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 18:01:52,370 - logger_File -INFO - WebSite validated successfully
+2022-02-03 18:01:53,776 - logger_File -INFO - Clicked on Tab
+2022-02-03 18:02:25,051 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-03 19:45:05,084 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 19:45:17,506 - logger_File -INFO - WebSite validated successfully
+2022-02-03 19:45:18,180 - logger_File -INFO - Clicked on Tab
+2022-02-03 19:45:49,360 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-03 22:37:00,666 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 22:37:08,618 - logger_File -INFO - WebSite validated successfully
+2022-02-03 22:37:09,667 - logger_File -INFO - Clicked on Tab
+2022-02-03 22:37:41,012 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-03 22:38:27,692 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 22:38:35,335 - logger_File -INFO - WebSite validated successfully
+2022-02-03 22:38:36,476 - logger_File -INFO - Clicked on Tab
+2022-02-03 22:39:07,625 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-03 22:41:32,871 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 22:41:40,125 - logger_File -INFO - WebSite validated successfully
+2022-02-03 22:41:41,303 - logger_File -INFO - Clicked on Tab
+2022-02-03 22:42:12,590 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-03 22:48:20,487 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 22:48:28,829 - logger_File -INFO - WebSite validated successfully
+2022-02-03 22:48:29,761 - logger_File -INFO - Clicked on Tab
+2022-02-03 22:49:00,931 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-03 22:53:48,584 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-03 22:53:56,662 - logger_File -INFO - WebSite validated successfully
+2022-02-03 22:53:57,576 - logger_File -INFO - Clicked on Tab
+2022-02-03 22:54:28,785 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 10:42:16,978 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 10:42:23,095 - logger_File -INFO - WebSite validated successfully
+2022-02-04 10:42:24,009 - logger_File -INFO - Clicked on Tab
+2022-02-04 10:43:30,211 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 10:43:35,937 - logger_File -INFO - WebSite validated successfully
+2022-02-04 10:43:36,748 - logger_File -INFO - Clicked on Tab
+2022-02-04 10:44:07,643 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 10:48:14,766 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 10:48:20,467 - logger_File -INFO - WebSite validated successfully
+2022-02-04 10:48:21,199 - logger_File -INFO - Clicked on Tab
+2022-02-04 10:48:52,162 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 12:47:00,797 - logger_File -INFO - Scenario User verify all items are present in Desktop tab Started
+2022-02-04 12:47:07,492 - logger_File -INFO - WebSite validated successfully
+2022-02-04 12:47:08,275 - logger_File -INFO - Clicked on Tab
+2022-02-04 12:47:39,099 - logger_File -INFO - Scenario User verify all items are present in Desktop tab FAILED
+2022-02-04 17:10:32,201 - logger_File -INFO - Scenario User verify all items are present in Desktop tab Started
+2022-02-04 17:10:41,406 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:10:42,873 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:11:14,058 - logger_File -INFO - Scenario User verify all items are present in Desktop tab FAILED
+2022-02-04 17:11:14,319 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-04 17:11:20,879 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:11:21,753 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:11:53,012 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart FAILED
+2022-02-04 17:11:53,226 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-04 17:11:59,310 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:12:00,501 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:12:31,866 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-04 17:12:31,945 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 17:12:37,914 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:12:38,931 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:13:09,992 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 17:22:43,002 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 17:22:50,472 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:22:51,857 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:23:23,300 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 17:24:36,605 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 17:24:44,232 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:24:45,477 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:25:16,777 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 17:34:18,727 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 17:34:26,338 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:34:27,665 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:34:59,146 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 17:45:08,816 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 17:45:20,250 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:45:21,947 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-04 17:50:03,584 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 17:50:11,548 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:50:13,316 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-04 17:51:18,785 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-04 17:51:25,919 - logger_File -INFO - WebSite validated successfully
+2022-02-04 17:51:27,309 - logger_File -INFO - Clicked on Tab
+2022-02-04 17:51:58,874 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-04 18:06:02,356 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 18:06:09,984 - logger_File -INFO - WebSite validated successfully
+2022-02-04 18:06:11,043 - logger_File -INFO - Clicked on Tab
+2022-02-04 18:06:42,422 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 18:07:25,846 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 18:07:33,113 - logger_File -INFO - WebSite validated successfully
+2022-02-04 18:07:34,185 - logger_File -INFO - Clicked on Tab
+2022-02-04 18:08:05,427 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 18:08:54,749 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 18:09:02,028 - logger_File -INFO - WebSite validated successfully
+2022-02-04 18:09:03,328 - logger_File -INFO - Clicked on Tab
+2022-02-04 18:09:34,770 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 18:30:26,226 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 18:30:34,033 - logger_File -INFO - WebSite validated successfully
+2022-02-04 18:30:35,779 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-04 18:34:32,905 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-04 18:34:41,480 - logger_File -INFO - WebSite validated successfully
+2022-02-04 18:34:42,593 - logger_File -INFO - Clicked on Tab
+2022-02-04 18:35:14,066 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-04 18:37:31,389 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 18:37:38,523 - logger_File -INFO - WebSite validated successfully
+2022-02-04 22:22:41,315 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 22:22:50,095 - logger_File -INFO - WebSite validated successfully
+2022-02-04 22:22:52,131 - logger_File -INFO - Clicked on Tab
+2022-02-04 22:22:53,309 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 22:22:55,186 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 22:23:29,701 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 22:24:00,501 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 22:24:10,394 - logger_File -INFO - WebSite validated successfully
+2022-02-04 22:24:13,369 - logger_File -INFO - Clicked on Tab
+2022-02-04 22:24:14,927 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 22:24:17,276 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 22:24:51,918 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 22:53:17,754 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 22:53:25,308 - logger_File -INFO - WebSite validated successfully
+2022-02-04 22:53:26,892 - logger_File -INFO - Clicked on Tab
+2022-02-04 22:53:27,984 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 22:53:30,945 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 22:57:56,220 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 22:58:02,887 - logger_File -INFO - WebSite validated successfully
+2022-02-04 22:58:04,920 - logger_File -INFO - Clicked on Tab
+2022-02-04 22:58:06,109 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 22:58:08,181 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 22:58:38,804 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:14:13,433 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:14:20,328 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:14:22,383 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:14:23,522 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:14:25,190 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:14:55,696 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:17:22,661 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:17:29,197 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:17:31,320 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:17:32,561 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:17:34,197 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:18:08,586 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:23:06,939 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:23:13,591 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:23:15,611 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:23:16,942 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:23:18,964 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:23:53,405 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:31:40,000 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:31:46,799 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:31:48,831 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:31:50,004 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:31:51,662 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:32:22,128 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:33:49,897 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:33:56,764 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:33:58,724 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:33:59,935 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:34:01,798 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:34:36,144 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:41:18,045 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:41:24,627 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:41:26,616 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:41:27,757 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:41:29,310 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:42:03,806 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:49:24,892 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-04 23:49:31,464 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:49:33,564 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:49:34,687 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:49:36,358 - logger_File -INFO - Clicked on MacBook Item
+2022-02-04 23:50:10,734 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-04 23:51:38,609 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-04 23:51:45,316 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:51:46,983 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:51:48,044 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:51:48,353 - logger_File -INFO - WebSite validated successfully
+2022-02-04 23:51:48,859 - logger_File -INFO - Clicked on Tab
+2022-02-04 23:51:49,608 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-04 23:51:50,113 - logger_File -INFO - Scenario Product Comparison UNDEFINED
+2022-02-05 00:30:41,574 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-05 00:30:48,859 - logger_File -INFO - WebSite validated successfully
+2022-02-05 00:30:51,128 - logger_File -INFO - Clicked on Tab
+2022-02-05 00:30:52,295 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 00:31:22,740 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-05 00:31:42,223 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-05 00:31:49,562 - logger_File -INFO - WebSite validated successfully
+2022-02-05 00:31:51,329 - logger_File -INFO - Clicked on Tab
+2022-02-05 00:31:52,597 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 00:32:23,156 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-05 00:35:56,512 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-05 00:36:03,629 - logger_File -INFO - WebSite validated successfully
+2022-02-05 00:36:05,290 - logger_File -INFO - Clicked on Tab
+2022-02-05 00:36:06,506 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 00:36:36,955 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-05 00:49:02,089 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-05 00:49:08,823 - logger_File -INFO - WebSite validated successfully
+2022-02-05 00:49:10,440 - logger_File -INFO - Clicked on Tab
+2022-02-05 00:49:11,571 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 00:49:42,020 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-05 00:52:54,636 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-05 00:53:01,692 - logger_File -INFO - WebSite validated successfully
+2022-02-05 00:53:03,992 - logger_File -INFO - Clicked on Tab
+2022-02-05 00:53:05,084 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 00:53:05,515 - logger_File -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-02-05 01:07:01,412 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-05 01:07:08,336 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:07:10,138 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:07:11,282 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:07:11,721 - logger_File -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-02-05 01:07:43,962 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-05 01:07:50,777 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:07:52,828 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:07:54,064 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:07:54,215 - logger_File -INFO - Sony VAIO Added To Wish List
+2022-02-05 01:07:54,488 - logger_File -INFO -  You must login or create an account to save Sony VAIO to your wish list!
+2022-02-05 01:07:54,890 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-05 01:09:40,797 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-05 01:09:47,877 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:09:50,100 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:09:51,291 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:09:53,088 - logger_File -INFO - Clicked on MacBook Item
+2022-02-05 01:10:27,419 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-05 01:10:28,008 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-05 01:10:33,602 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:10:35,198 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:10:36,205 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:11:06,577 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-05 01:11:07,257 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-05 01:11:13,298 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:11:15,396 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:11:16,595 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:11:16,715 - logger_File -INFO - Sony VAIO Added To Wish List
+2022-02-05 01:11:16,929 - logger_File -INFO -  You must login or create an account to save Sony VAIO to your wish list!
+2022-02-05 01:11:17,234 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-05 01:11:17,816 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-05 01:11:23,519 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:11:25,366 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:11:26,500 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:11:28,203 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-02-05 01:12:38,664 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-05 01:12:45,620 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:12:47,316 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:12:48,455 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-05 01:12:49,195 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-02-05 01:19:29,521 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-05 01:19:36,879 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:19:37,332 - logger_File -INFO - Clicked on Tab
+2022-02-05 01:20:08,133 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-05 01:47:55,059 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-05 01:48:02,136 - logger_File -INFO - WebSite validated successfully
+2022-02-05 01:48:02,956 - logger_File -INFO - Scenario User verify currency values change UNDEFINED
+2022-02-05 08:15:12,943 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-05 08:15:23,587 - logger_File -INFO - WebSite validated successfully
+2022-02-05 08:15:25,808 - logger_File -INFO - Clicked On Currency
+2022-02-05 08:15:26,463 - logger_File -INFO - Clicked On EUR in Currency
+2022-02-05 08:15:26,567 - logger_File -INFO - Currency Changed to EUR
+2022-02-05 08:15:31,078 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-05 08:16:07,772 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-05 08:16:14,981 - logger_File -INFO - WebSite validated successfully
+2022-02-05 08:16:16,613 - logger_File -INFO - Clicked On Currency
+2022-02-05 08:16:17,292 - logger_File -INFO - Clicked On EUR in Currency
+2022-02-05 08:16:17,379 - logger_File -INFO - Currency Changed to EUR
+2022-02-05 08:16:17,848 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-05 08:17:43,013 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-05 08:17:50,250 - logger_File -INFO - WebSite validated successfully
+2022-02-05 08:17:51,851 - logger_File -INFO - Clicked On Currency
+2022-02-05 08:17:52,580 - logger_File -INFO - Clicked On EUR in Currency
+2022-02-05 08:17:52,670 - logger_File -INFO - Currency Changed to EUR
+2022-02-05 08:17:59,436 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-07 10:50:57,705 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-07 10:51:08,193 - logger_File -INFO - WebSite validated successfully
+2022-02-07 10:51:09,042 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-07 10:53:13,846 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-07 10:53:21,847 - logger_File -INFO - WebSite validated successfully
+2022-02-07 10:53:22,584 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-07 10:57:51,904 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-07 10:57:59,054 - logger_File -INFO - WebSite validated successfully
+2022-02-07 10:57:59,823 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-07 12:30:41,752 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-07 12:30:49,393 - logger_File -INFO - WebSite validated successfully
+2022-02-07 12:30:50,264 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-07 13:00:33,584 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-07 13:00:41,162 - logger_File -INFO - WebSite validated successfully
+2022-02-07 13:00:42,125 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-07 13:02:05,395 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-07 13:02:12,183 - logger_File -INFO - WebSite validated successfully
+2022-02-07 13:02:12,993 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-07 17:36:26,449 - logger_File -INFO - Scenario User verify all items are present in Desktop tab Started
+2022-02-07 17:36:38,972 - logger_File -INFO - WebSite validated successfully
+2022-02-07 17:36:39,857 - logger_File -INFO - Clicked on Tab
+2022-02-07 17:37:11,773 - logger_File -INFO - Scenario User verify all items are present in Desktop tab FAILED
+2022-02-07 18:28:52,085 - logger_File -INFO - Scenario  Started
+2022-02-07 18:28:59,092 - logger_File -INFO - WebSite validated successfully
+2022-02-07 18:28:59,875 - logger_File -INFO - Scenario  UNDEFINED
+2022-02-07 22:43:51,781 - logger_File -INFO - Scenario  Started
+2022-02-07 22:43:59,200 - logger_File -INFO - WebSite validated successfully
+2022-02-07 22:44:32,276 - logger_File -INFO - Scenario  FAILED
+2022-02-07 22:48:54,778 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-07 22:49:00,788 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-07 22:49:37,082 - logger_File -INFO - Scenario  Started
+2022-02-07 22:49:43,903 - logger_File -INFO - WebSite validated successfully
+2022-02-07 22:50:16,128 - logger_File -INFO - Scenario  FAILED
+2022-02-07 22:50:16,777 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-07 22:50:21,159 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-07 23:03:34,996 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-07 23:03:43,047 - logger_File -INFO - WebSite validated successfully
+2022-02-07 23:03:45,455 - logger_File -INFO - Clicked on Tab
+2022-02-07 23:03:46,661 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-07 23:04:07,588 - logger_File -INFO - Clicked on MacBook Item
+2022-02-07 23:04:42,013 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-07 23:04:42,633 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-07 23:04:49,562 - logger_File -INFO - WebSite validated successfully
+2022-02-07 23:04:51,198 - logger_File -INFO - Clicked on Tab
+2022-02-07 23:04:52,326 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-07 23:05:28,709 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-07 23:05:29,329 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-07 23:05:35,285 - logger_File -INFO - WebSite validated successfully
+2022-02-07 23:05:36,973 - logger_File -INFO - Clicked on Tab
+2022-02-07 23:05:38,071 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-07 23:05:44,161 - logger_File -INFO - Sony VAIO Added To Wish List
+2022-02-07 23:05:44,512 - logger_File -INFO -  You must login or create an account to save Sony VAIO to your wish list!
+2022-02-07 23:05:44,784 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-07 23:05:45,384 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-07 23:05:51,131 - logger_File -INFO - WebSite validated successfully
+2022-02-07 23:05:52,716 - logger_File -INFO - Clicked on Tab
+2022-02-07 23:05:53,965 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-07 23:05:59,971 - logger_File -INFO - Clicked On MacBookPro
+2022-02-07 23:06:00,304 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-07 23:06:00,916 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-07 23:06:06,703 - logger_File -INFO - WebSite validated successfully
+2022-02-07 23:06:08,269 - logger_File -INFO - Clicked on Tab
+2022-02-07 23:06:09,300 - logger_File -INFO - Clicked on Show All LapTops &Note Books
+2022-02-07 23:06:16,012 - logger_File -INFO - WebSite validated successfully
+2022-02-07 23:06:16,462 - logger_File -INFO - Clicked on Tab
+2022-02-07 23:06:47,174 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED

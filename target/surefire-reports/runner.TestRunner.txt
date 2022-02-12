@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 13.773 s <<< FAILURE! - in runner.TestRunner
+User empty Shopping cart message displays(EMPTY_NAME)  Time elapsed: 9.398 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User click on shopping cart' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("User click on shopping cart")
+public void user_click_on_shopping_cart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("“Your shopping cart is empty!” message should display")
+public void your_shopping_cart_is_empty_message_should_display() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

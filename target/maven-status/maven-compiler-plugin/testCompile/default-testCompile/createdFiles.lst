@@ -1,0 +1,7 @@
+stepDefinitions\RegisterSteps.class
+stepDefinitions\LaptopStepDef.class
+stepDefinitions\LoginSteps.class
+stepDefinitions\DeskTopStepDef.class
+stepDefinitions\HomePgaeStepDef.class
+stepDefinitions\Initializer.class
+runner\TestRunner.class

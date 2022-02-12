@@ -1,0 +1,13 @@
+pageObjects\Mp3PlayerAsPageObject.class
+pageObjects\ComponentPageObject.class
+pageObjects\PhonePDAsPageObject.class
+pageObjects\TabletsPageObject.class
+pageObjects\HomePageObject.class
+pageObjects\RegisterPageObjects.class
+pageObjects\SoftwarePageObject.class
+pageObjects\DesktopPageObject.class
+pageObjects\LaptopsNoteBooksPageObject.class
+core\Base.class
+utilities\CucumberReportingConfig.class
+utilities\Utilities.class
+pageObjects\LoginPageObjects.class
